@@ -1,0 +1,16 @@
+.column {
+  max-width: 29%;
+  margin: 15px;
+  border: 2px solid;
+  float: left;
+  padding: 5px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-variant: small-caps;
+}
